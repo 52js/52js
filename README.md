@@ -26,7 +26,12 @@
 
 ### 开源项目
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=52js&repo=ElectronFish)](https://github.com/52js/ElectronFish)
+
+<br>
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=52js&repo=countdown-after-work)](https://github.com/52js/countdown-after-work)
+
 <br><br><br>
 
 ### Github 活跃度
